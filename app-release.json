@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-08-28T09:43:11",
-  "description": "## [1.1.1](https://github.com/[secure]App/PotHelper/compare/v1.1.0...v1.1.1) (2026-08-28)\n\n\n### Bug Fixes\n\n* Allow opening helper from device system app when launcher icon is hidden ([2e0d8a5](https://github.com/[secure]App/PotHelper/commit/2e0d8a501effc8eedf4ca81579fa30c6b98efe6d))",
-  "download_url": "https://github.com/MorpheApp/PotHelper/releases/download/v1.1.1/pot-helper-1.1.1.apk",
+  "created_at": "2026-10-29T09:56:13",
+  "description": "## [1.1.2](https://github.com/murikbmx/PotHelper/compare/v1.1.1...v1.1.2) (2026-10-29)\n\n\n### Bug Fixes\n\n* Update libpot.so ([01849a6](https://github.com/murikbmx/PotHelper/commit/01849a6c5d39007f89f60691d2d792323864fde1))",
+  "download_url": "https://github.com/murikbmx/PotHelper/releases/download/v1.1.2/pot-helper-1.1.2.apk",
   "signature_download_url": "",
-  "version": "1.1.1"
+  "version": "1.1.2"
 }

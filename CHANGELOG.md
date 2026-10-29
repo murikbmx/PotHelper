@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/murikbmx/PotHelper/compare/v1.1.1...v1.1.2) (2026-10-29)
+
+
+### Bug Fixes
+
+* Update libpot.so ([01849a6](https://github.com/murikbmx/PotHelper/commit/01849a6c5d39007f89f60691d2d792323864fde1))
+
 ## [1.1.1](https://github.com/[secure]App/PotHelper/compare/v1.1.0...v1.1.1) (2026-08-28)
 
 
